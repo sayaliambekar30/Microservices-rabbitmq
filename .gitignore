@@ -1,0 +1,29 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+
+# Node
+/package-lock.json
+
+api-gate/node_modules
+api-gate/package-lock.json
+
+auth-service/node_modules
+auth-service/package-lock.json
+
+order-service/node_modules
+order-service/package-lock.json
+
+product-service/node_modules
+product-service/package-lock.json
+
+
+
+# Visual Studio Code
+/!.vscode/*
+/!.vscode/settings.json
+/!.vscode/tasks.json
+/!.vscode/launch.json
+/!.vscode/extensions.json
+/.history/*
+
+
